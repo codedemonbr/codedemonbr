@@ -3,10 +3,21 @@
   "version": "1.0.0",
   "description": "This is a project to show my personal information directally on terminal linux.",
   "main": "./personalInfo.json",
+  "bin":{
+    "codedemonbr": "./index.js"
+  },
   "scripts": {
     "start": "node ./index.js"
   },
   "keywords": ["contact", "programmer", "developer", "job", "hiring"],
   "author": "Thiago Henrique dos Santos",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedemonbr/codedemonbr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codedemonbr/codedemonbr/issues"
+  },
+  "homepage": "https://github.com/codedemonbr/codedemonbr#readme"
 }

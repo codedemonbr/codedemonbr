@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { readFile } = require("fs");
 const { join } = require("path");
 readFile(join(__dirname, "personalInfo.json"), "utf8", (err, content) => {
