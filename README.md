@@ -1,6 +1,7 @@
 <h1 align="center">
     CodeDemonBr, Nice to meet you.
 </h1>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/codedemonbr/codedemonbr">
 
@@ -52,8 +53,8 @@ This project was developed with the following technologies:
 
 As result you will have something like:
 
-<p align="left">
-  <img alt="Result" src="https://res.cloudinary.com/codedemonbr/image/upload/v1620257638/personalInfo_l6pttj.gif">
+<p align="center">
+  <img alt="Result" src="https://res.cloudinary.com/codedemonbr/image/upload/v1622546632/personalInfo_vmszas.gif">
 </p>
 
 Use [Node.js v14.15][nodejs] or higher.
@@ -63,7 +64,7 @@ Use [Node.js v14.15][nodejs] or higher.
 ```json
 {
     "name": "Thiago Henrique dos Santos",
-    "email": "henrique.thsantos.ths@gmail.com",
+    "email": "codedemonbr@pm.me",
     "github": "https://github.com/codedemonbr",
     "linkedin": "www.linkedin.com/in/codedemonbr",
     "phones": [
@@ -76,6 +77,17 @@ Use [Node.js v14.15][nodejs] or higher.
     ]
 }
 ```
+
+## :man_technologist: About my code
+
+<div align="center"><a href="https://github.com/codedemonbr">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedemonbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedemonbr&layout=compact&langs_count=16&theme=radical"/>
+  
+</div>
+
+![Snake animation](https://github.com/codedemonbr/codedemonbr/blob/output/github-contribution-grid-snake.svg)
 
 ## :memo: License
 
