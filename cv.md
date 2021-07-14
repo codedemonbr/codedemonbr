@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Perfil:
 
-Programador fullstack em Javascript com experiencia passada C++ e Java. Conheço Docker, Docker Compose, ambientes com container. Conheço os bancos de dados relacionais e não relacionais, como o Mongodb. Estou estudando Deep Learning com Python. AWS e estruturas em nuvem.  Hábil em aprender novas habilidades em programação e elaborar relatórios de engenharia de software.
+Programador fullstack em Javascript com experiencia passada C++ e Java. Conheço Docker, Docker Compose, ambientes com container. Conheço os bancos de dados relacionais e não relacionais, como o Mongodb. Estou estudando Deep Learning com Python. AWS e estruturas em nuvem. Hábil em aprender novas habilidades em programação e elaborar relatórios de engenharia de software.
 
 ## 🎯 Objetivo:
 
@@ -14,8 +14,7 @@ Minha principal habilidade é o fato de ser autodidata e amar pesquisas. Tudo aq
 Ser comunicativo e saber explicar e vender uma boa ideia. Por observação, poucos sabem transmitir uma ideia de maneira a excitar o cliente a usar um determinado produto ou serviço e este sem dúvida é um diferencial que carrego.
 Ser resiliente. Essa habilidade é fundamental para o sucesso. Os maiores empreendedores do mundo tiveram de lidar com a rejeição, o fracasso e o descrédito. Tornar insucessos em aprendizado, isso me faz bem.
 
-
-## 💻  Conteúdo:
+## 💻 Conteúdo:
 
 -   Typescript e Javascript. Minha atual paixão. Nos últimos meses, com o mundo um pouco fora do seu ritmo habitual, eu entrei na jornada de aprender o máximo possível das tecnologias que utilizam JS. Foram tantas coisas aprendidas que vou anexar um outro documento sobre as centenas de coisas aprendidas.
 -   Java. Tem se mostrado no mundo do desenvolvimento do software uma das mais poderosas pela sua sintaxe harmoniosa e IDEs altamente flexíveis. Trabalhei com Grails e GWT/GXT.
@@ -54,9 +53,9 @@ Estagiei ministrando aulas na matéria de desenho técnico mecânico aos alunos 
 -   API Restiful com Node JS, Restify e MongoDB - 70%
 -   MongoDB - NoSQL avançado - 70%
 -   Web Moderno com JS - Cod3r - 70%
-- Java Completo - Cod3r - 16%
- - Flutter - Cod3r - 15%
- - Figma Design Colaborativo - Leandro Rezende - 10%
+-   Java Completo - Cod3r - 16%
+-   Flutter - Cod3r - 15%
+-   Figma Design Colaborativo - Leandro Rezende - 10%
 -   Inglês – Avançado.
 -   Espanhol – Intermediário.
 -   Flisol – Festival Latino Americano de Instalação de Software Livre – 2014
