@@ -24,7 +24,7 @@ Ser resiliente. Essa habilidade é fundamental para o sucesso. Os maiores empree
 
 ## 💻 Experiências profissionais:
 
-### :man_technologist: Airon Global, 26/09/2018 — 01/04/2019, Programador Júnior Java
+### :man_technologist: Airon Global, 26/09/2018 — 01/04/2019, Programador Java
 
 Trabalho com desenvolvimento Java WEB com implementações de servidor em Groovy/Grails. Utilizo o banco de dados Oracle e programação de interface gráfica em GXT/GWT.
 
