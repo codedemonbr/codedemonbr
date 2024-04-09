@@ -33,7 +33,7 @@
 
 This project was developed with the following technologies:
 
--   [Node.js](https://nodejs.org/en/);
+- [Node.js](https://nodejs.org/en/);
 
 ## :information_source: How to use
 
@@ -63,29 +63,20 @@ Use [Node.js v14.15][nodejs] or higher.
 
 ```json
 {
-    "name": "Thiago Henrique dos Santos",
-    "email": "codedemonbr@pm.me",
-    "github": "https://github.com/codedemonbr",
-    "linkedin": "www.linkedin.com/in/codedemonbr",
-    "phones": [
-        {
-            "sp_phone": "+5511986082341"
-        },
-        {
-            "ba_phone": "+5571997115946"
-        }
-    ]
+  "name": "Thiago Henrique dos Santos",
+  "email": "codedemonbr@pm.me",
+  "github": "https://github.com/codedemonbr",
+  "linkedin": "www.linkedin.com/in/codedemonbr",
+  "phones": [
+    {
+      "sp_phone": "+5511986082341"
+    },
+    {
+      "ba_phone": "+5571997115946"
+    }
+  ]
 }
 ```
-
-## :man_technologist: About my code
-
-<div align="center"><a href="https://github.com/codedemonbr">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedemonbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedemonbr&layout=compact&langs_count=16&theme=radical"/>
-  
-</div>
 
 ![Snake animation](https://github.com/codedemonbr/codedemonbr/blob/output/github-contribution-grid-snake.svg)
 
